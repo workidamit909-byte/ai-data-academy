@@ -1,0 +1,342 @@
+{
+  "student_success": {
+    "data_science_students": [
+      {
+        "name": "Sarah Johnson",
+        "previous_role": "Business Analyst",
+        "previous_salary": 55000,
+        "new_role": "Data Scientist",
+        "new_salary": 95000,
+        "company": "Tech Corp",
+        "location": "San Francisco, CA",
+        "program_duration": "6 months",
+        "salary_increase_percent": 73
+      },
+      {
+        "name": "Michael Chen",
+        "previous_role": "Marketing Coordinator",
+        "previous_salary": 45000,
+        "new_role": "Senior Data Scientist",
+        "new_salary": 128000,
+        "company": "Amazon",
+        "location": "Seattle, WA",
+        "program_duration": "6 months",
+        "salary_increase_percent": 184
+      },
+      {
+        "name": "Emma Rodriguez",
+        "previous_role": "Financial Analyst",
+        "previous_salary": 62000,
+        "new_role": "Data Scientist",
+        "new_salary": 115000,
+        "company": "JPMorgan Chase",
+        "location": "New York, NY",
+        "program_duration": "5 months",
+        "salary_increase_percent": 85
+      }
+    ],
+    "data_analytics_students": [
+      {
+        "name": "David Kim",
+        "previous_role": "Customer Service Rep",
+        "previous_salary": 35000,
+        "new_role": "Data Analyst",
+        "new_salary": 78000,
+        "company": "Microsoft",
+        "location": "Redmond, WA",
+        "program_duration": "4 months",
+        "salary_increase_percent": 123
+      },
+      {
+        "name": "Lisa Thompson",
+        "previous_role": "Administrative Assistant",
+        "previous_salary": 40000,
+        "new_role": "Business Intelligence Analyst",
+        "new_salary": 85000,
+        "company": "Salesforce",
+        "location": "San Francisco, CA",
+        "program_duration": "5 months",
+        "salary_increase_percent": 113
+      },
+      {
+        "name": "James Wilson",
+        "previous_role": "Sales Associate",
+        "previous_salary": 42000,
+        "new_role": "Senior Data Analyst",
+        "new_salary": 102000,
+        "company": "Google",
+        "location": "Mountain View, CA",
+        "program_duration": "6 months",
+        "salary_increase_percent": 143
+      }
+    ],
+    "machine_learning_students": [
+      {
+        "name": "Priya Patel",
+        "previous_role": "Software Developer",
+        "previous_salary": 75000,
+        "new_role": "ML Engineer",
+        "new_salary": 145000,
+        "company": "Netflix",
+        "location": "Los Gatos, CA",
+        "program_duration": "6 months",
+        "salary_increase_percent": 93
+      },
+      {
+        "name": "Alex Martinez",
+        "previous_role": "Junior Developer",
+        "previous_salary": 55000,
+        "new_role": "Machine Learning Engineer",
+        "new_salary": 131000,
+        "company": "Tesla",
+        "location": "Austin, TX",
+        "program_duration": "7 months",
+        "salary_increase_percent": 138
+      },
+      {
+        "name": "Rachel Green",
+        "previous_role": "Data Entry Clerk",
+        "previous_salary": 32000,
+        "new_role": "AI Specialist",
+        "new_salary": 120000,
+        "company": "IBM",
+        "location": "New York, NY",
+        "program_duration": "8 months",
+        "salary_increase_percent": 275
+      }
+    ]
+  },
+  "job_openings": {
+    "usa_jobs": [
+      {
+        "title": "Senior Data Scientist",
+        "company": "Apple",
+        "location": "Cupertino, CA",
+        "salary": "$150K-$200K"
+      },
+      {
+        "title": "Machine Learning Engineer",
+        "company": "Google",
+        "location": "Mountain View, CA",
+        "salary": "$140K-$180K"
+      },
+      {
+        "title": "Data Analyst",
+        "company": "Microsoft",
+        "location": "Seattle, WA",
+        "salary": "$85K-$120K"
+      },
+      {
+        "title": "AI Research Scientist",
+        "company": "Meta",
+        "location": "Menlo Park, CA",
+        "salary": "$160K-$220K"
+      },
+      {
+        "title": "Business Intelligence Analyst",
+        "company": "Amazon",
+        "location": "Seattle, WA",
+        "salary": "$90K-$130K"
+      },
+      {
+        "title": "Data Engineer",
+        "company": "Netflix",
+        "location": "Los Gatos, CA",
+        "salary": "$130K-$170K"
+      },
+      {
+        "title": "ML Ops Engineer",
+        "company": "Tesla",
+        "location": "Austin, TX",
+        "salary": "$125K-$160K"
+      },
+      {
+        "title": "Principal Data Scientist",
+        "company": "Salesforce",
+        "location": "San Francisco, CA",
+        "salary": "$180K-$250K"
+      }
+    ],
+    "uk_jobs": [
+      {
+        "title": "Data Scientist",
+        "company": "DeepMind",
+        "location": "London, UK",
+        "salary": "\u00a380K-\u00a3120K"
+      },
+      {
+        "title": "ML Engineer",
+        "company": "Revolut",
+        "location": "London, UK",
+        "salary": "\u00a375K-\u00a3105K"
+      },
+      {
+        "title": "Data Analyst",
+        "company": "HSBC",
+        "location": "London, UK",
+        "salary": "\u00a350K-\u00a375K"
+      },
+      {
+        "title": "AI Researcher",
+        "company": "ARM",
+        "location": "Cambridge, UK",
+        "salary": "\u00a390K-\u00a3130K"
+      },
+      {
+        "title": "Business Analyst",
+        "company": "Barclays",
+        "location": "London, UK",
+        "salary": "\u00a360K-\u00a385K"
+      },
+      {
+        "title": "Data Engineer",
+        "company": "Monzo",
+        "location": "London, UK",
+        "salary": "\u00a370K-\u00a395K"
+      }
+    ],
+    "canada_jobs": [
+      {
+        "title": "Data Scientist",
+        "company": "Shopify",
+        "location": "Toronto, ON",
+        "salary": "CAD $95K-$135K"
+      },
+      {
+        "title": "ML Engineer",
+        "company": "Coveo",
+        "location": "Montreal, QC",
+        "salary": "CAD $85K-$115K"
+      },
+      {
+        "title": "Data Analyst",
+        "company": "RBC",
+        "location": "Toronto, ON",
+        "salary": "CAD $65K-$90K"
+      },
+      {
+        "title": "AI Specialist",
+        "company": "Element AI",
+        "location": "Montreal, QC",
+        "salary": "CAD $100K-$140K"
+      },
+      {
+        "title": "Business Intelligence Analyst",
+        "company": "TD Bank",
+        "location": "Toronto, ON",
+        "salary": "CAD $70K-$95K"
+      }
+    ]
+  },
+  "office_locations": {
+    "usa_offices": [
+      {
+        "city": "New York",
+        "address": "One World Trade Center, Suite 76J, New York, NY 10007",
+        "phone": "+1 (212) 555-0123",
+        "email": "newyork@aidataacdemy.com",
+        "coordinates": {
+          "lat": 40.7128,
+          "lng": -74.006
+        }
+      },
+      {
+        "city": "San Francisco",
+        "address": "2 Embarcadero Center, San Francisco, CA 94111",
+        "phone": "+1 (415) 555-0456",
+        "email": "sanfrancisco@aidataacademy.com",
+        "coordinates": {
+          "lat": 37.7749,
+          "lng": -122.4194
+        }
+      },
+      {
+        "city": "Austin",
+        "address": "301 Congress Ave, Suite 1750, Austin, TX 78701",
+        "phone": "+1 (512) 555-0789",
+        "email": "austin@aidataacademy.com",
+        "coordinates": {
+          "lat": 30.2672,
+          "lng": -97.7431
+        }
+      }
+    ],
+    "uk_offices": [
+      {
+        "city": "London",
+        "address": "70 Mark Lane, London, EC3R 7NQ, United Kingdom",
+        "phone": "+44 20 7946 0958",
+        "email": "london@aidataacademy.com",
+        "coordinates": {
+          "lat": 51.5074,
+          "lng": -0.1278
+        }
+      }
+    ],
+    "canada_offices": [
+      {
+        "city": "Toronto",
+        "address": "33 Yonge St Suite 820, Toronto, ON M5E1G4, Canada",
+        "phone": "+1 (416) 555-0321",
+        "email": "toronto@aidataacademy.com",
+        "coordinates": {
+          "lat": 43.6532,
+          "lng": -79.3832
+        }
+      }
+    ]
+  },
+  "average_salaries": {
+    "data_science": {
+      "entry_level": {
+        "min": 85000,
+        "max": 120000,
+        "avg": 102500
+      },
+      "mid_level": {
+        "min": 120000,
+        "max": 180000,
+        "avg": 150000
+      },
+      "senior_level": {
+        "min": 180000,
+        "max": 250000,
+        "avg": 215000
+      }
+    },
+    "data_analytics": {
+      "entry_level": {
+        "min": 60000,
+        "max": 90000,
+        "avg": 75000
+      },
+      "mid_level": {
+        "min": 90000,
+        "max": 130000,
+        "avg": 110000
+      },
+      "senior_level": {
+        "min": 130000,
+        "max": 180000,
+        "avg": 155000
+      }
+    },
+    "machine_learning": {
+      "entry_level": {
+        "min": 95000,
+        "max": 140000,
+        "avg": 117500
+      },
+      "mid_level": {
+        "min": 140000,
+        "max": 200000,
+        "avg": 170000
+      },
+      "senior_level": {
+        "min": 200000,
+        "max": 300000,
+        "avg": 250000
+      }
+    }
+  }
+}
